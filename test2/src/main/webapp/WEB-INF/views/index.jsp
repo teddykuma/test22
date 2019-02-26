@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hi
+<table>
+<tr><td>배고프다..</td></tr>
+</table>
 </body>
 </html>
